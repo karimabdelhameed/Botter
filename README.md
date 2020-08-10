@@ -45,6 +45,7 @@ Botter.initialize(this,"Your API Key",
 new BotterCustomization.Builder().build());
 ```
 <strong>Note:</strong> If you don't currently implement a custom application, you’ll need to create one. A custom application looks like this:
+
 ```
 public class CustomApplication extends Application {
     @Override public void onCreate() {
@@ -54,7 +55,9 @@ new BotterCustomization.Builder().build());
    }
 }
 ```
+
 You’ll need to update your manifest to use your application:
+
 ```
 <application
     android:name=".CustomApplication">
