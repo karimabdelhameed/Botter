@@ -120,5 +120,5 @@ new BotterCustomization.Builder() .setLauncherGravity(BotterCustomization.Launch
 ## Customization Parameters table:
 | Name  | Description | Screenshot |
 | ------------- | ------------- | ------------- |
-| setLauncherGravity | To set the launcher to the right/left of the screen. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/1.png" alt="Botter">
+| setLauncherGravity | To set the launcher to the right/left of the screen. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/1.jpg" alt="Botter">
 
