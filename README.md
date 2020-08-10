@@ -66,6 +66,10 @@ You’ll need to update your manifest to use your application:
 </application>
 ```
 
+## Customer Support
+
+👋 Contact us with any integration/issues at [Botter- Conteact us page](https://botter.ai/contact/). If you bump into any problems or need more support, just start a conversation with our support team.
+
 ## Customizations
 if you want anytime at any screen hide the Botter chat icon, just write the below line inside <strong>onResume()</strong> method : 
 
@@ -121,18 +125,20 @@ new BotterCustomization.Builder() .setLauncherGravity(BotterCustomization.Launch
 | Name  | Description | Screenshot |
 | ------------- | ------------- | ------------- |
 | setLauncherGravity | To set the launcher to the right/left of the screen. | 
-| setLauncherIcon | To change the launcher icon. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/1.jpg" height="350" alt="1">|
-| setBotterLogo | To set the chat main logo. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/2.jpg" height="350" alt="2">|
-| setBotterAccentColor | This is the main color used all over the chat like launcher bg color, welcome screen top area bg color, chat header, ect… I.e. in the image accent color is purple. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/main_color.jpg" height="350" alt="main_color">|
-| setBotterHeadlineText , setBotterHeadlineTextColor | Used to set the welcome screen header title text and color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/4.jpg" height="350" alt="4">|
-| seBtotterWelcomeText , setBotterWelcomeTextColor | Used to set the welcome screen header subtitle text and color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/3.jpg" height="350" alt="3">|
-|setBotterChatHeaderTitle , setBotterChatHeaderTitleColor | Used to set the main chat header title text and color | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/6.jpg" height="350" alt="6">|
-| setBotterChatBubbleColor , setBotterChatBubbleTextColor | Used to set the botter message bubble bg color and it’s text color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/7.jpg" height="350" alt="7">|
-| setSenderChatBubbleColor , setSenderChatBubbleTextColor | Used to set the sender/user message bubble bg color and it’s text color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/8.jpg" height="350" alt="8">|
+| setLauncherIcon | To change the launcher icon. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/1.jpg" alt="1">|
+| setBotterLogo | To set the chat main logo. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/2.jpg" alt="2">|
+| setBotterAccentColor | This is the main color used all over the chat like launcher bg color, welcome screen top area bg color, chat header, ect… I.e. in the image accent color is purple. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/main_color.jpg" alt="main_color">|
+| setBotterHeadlineText , setBotterHeadlineTextColor | Used to set the welcome screen header title text and color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/4.jpg" alt="4">|
+| seBtotterWelcomeText , setBotterWelcomeTextColor | Used to set the welcome screen header subtitle text and color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/3.jpg" alt="3">|
+|setBotterChatHeaderTitle , setBotterChatHeaderTitleColor | Used to set the main chat header title text and color | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/6.jpg" alt="6">|
+| setBotterChatBubbleColor , setBotterChatBubbleTextColor | Used to set the botter message bubble bg color and it’s text color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/7.jpg" alt="7">|
+| setSenderChatBubbleColor , setSenderChatBubbleTextColor | Used to set the sender/user message bubble bg color and it’s text color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/8.jpg" alt="8">|
 | setBotterRegularFontFamily | Used to set the primary font all over the chat. |
 | setBotterSemiBoldFontFamily | Used to set the secondary font all over the chat. |
 
 
 
-
+# Licence 
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of at:
+<a href='https://opensource.org/licenses/apache2.0.php'>https://opensource.org/licenses/apache2.0.php</a>
 
