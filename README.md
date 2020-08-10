@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/ic_botter.png" width="200" height="80" alt="Botter">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/ic_botter.png" width="250" height="80" alt="Botter">
