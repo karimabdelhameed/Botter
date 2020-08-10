@@ -71,9 +71,9 @@ You’ll need to update your manifest to use your application:
 <li> Kotlin. </li>
 
 
-## Customer Support
+## Customer support
 
-👋 Contact us with any integration/issues at [Botter- Contact us page](https://botter.ai/contact/). If you bump into any problems or need more support, just start a conversation with our support team.
+👋 Contact us with any integration/issues at [Botter - Contact us page](https://botter.ai/contact/). If you bump into any problems or need more support, just start a conversation with our support team.
 
 ## Customizations
 if you want anytime at any screen hide the Botter chat icon, just write the below line inside <strong>onResume()</strong> method : 
@@ -126,7 +126,7 @@ new BotterCustomization.Builder() .setLauncherGravity(BotterCustomization.Launch
 .build());
 ```
 
-## Customization Parameters table:
+## Customization parameters table:
 | Name  | Description | Screenshot |
 | ------------- | ------------- | ------------- |
 | setLauncherGravity | To set the launcher to the right/left of the screen. | 
