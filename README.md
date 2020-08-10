@@ -66,6 +66,11 @@ You’ll need to update your manifest to use your application:
 </application>
 ```
 
+## Supported integration languages
+<li> Java. </li>
+<li> Kotlin. </li>
+
+
 ## Customer Support
 
 👋 Contact us with any integration/issues at [Botter- Conteact us page](https://botter.ai/contact/). If you bump into any problems or need more support, just start a conversation with our support team.
