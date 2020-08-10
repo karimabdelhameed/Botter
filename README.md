@@ -40,10 +40,12 @@ implementation "com.bluecrunch:botter:1.2.1"
 
 <p>First, you'll need to get your Botter Android API key. To find this, just contact our support team to get you one.
   Then, initialize Botter by calling the following in the <strong>onCreate()</strong> method of your application class</p>
+  
 ```
 Botter.initialize(this,"Your API Key",
 new BotterCustomization.Builder().build());
 ```
+
 <strong>Note:</strong> If you don't currently implement a custom application, you’ll need to create one. A custom application looks like this:
 
 ```
