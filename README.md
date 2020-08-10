@@ -120,5 +120,12 @@ new BotterCustomization.Builder() .setLauncherGravity(BotterCustomization.Launch
 ## Customization Parameters table:
 | Name  | Description | Screenshot |
 | ------------- | ------------- | ------------- |
-| setLauncherGravity | To set the launcher to the right/left of the screen. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/1.jpg" alt="Botter">
+| setLauncherGravity | To set the launcher to the right/left of the screen. | 
+| setLauncherIcon | To change the launcher icon. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/1.jpg" alt="1">|
+| setBotterLogo | To set the chat main logo. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/2.jpg" alt="2">|
+| setBotterAccentColor | This is the main color used all over the chat like launcher bg color, welcome screen top area bg color, chat header, ect…
+I.e. in the image accent color is purple. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/main_color.jpg" alt="main_color">|
+| setBotterHeadlineText   
+setBotterHeadlineTextColor | Used to set the welcome screen header title text and color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/4.jpg" alt="main_color">|
+
 
