@@ -70,6 +70,10 @@ You’ll need to update your manifest to use your application:
 <li> Java. </li>
 <li> Kotlin. </li>
 
+## Current supported bot languages
+<li> English </li>
+<li> Arabic </li>
+
 
 ## Customer support
 
@@ -105,7 +109,9 @@ You can customize Botter with your preferred settings, when you initialize Botte
 ```
 Botter.initialize(this,
 "Your API Key"
-new BotterCustomization.Builder() .setLauncherGravity(BotterCustomization.LauncherGravity.LEFT) // set the launcher icon to the left/right of your screen.
+new BotterCustomization.Builder() 
+.setLauncherGravity(BotterCustomization.LauncherGravity.LEFT) // set the launcher icon to the left/right of your screen.
+.setDefaultLocal(BotterCustomization.Local.AR) // set default bot language either AR/EN
 .setLauncherIcon(R.drawable.) //set the launcher icon.
 .setBotterLogo(R.drawable.) //set the chat logo.
 .setBotterAccentColor(R.color.) //set the chat accent color.
