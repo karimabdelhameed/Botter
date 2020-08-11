@@ -110,8 +110,8 @@ You can customize Botter with your preferred settings, when you initialize Botte
 Botter.initialize(this,
 "Your API Key"
 new BotterCustomization.Builder() 
-.setLauncherGravity(BotterCustomization.LauncherGravity.LEFT) // set the launcher icon to the left/right of your screen.
-.setDefaultLocal(BotterCustomization.Local.AR) // set default bot language either AR/EN
+.setLauncherGravity(BotterCustomization.LauncherGravity.LEFT) // set the launcher icon to the left/right of your screen. (default right).
+.setDefaultLocal(BotterCustomization.Local.AR) // set default bot language either AR/EN. (default EN).
 .setLauncherIcon(R.drawable.) //set the launcher icon.
 .setBotterLogo(R.drawable.) //set the chat logo.
 .setBotterAccentColor(R.color.) //set the chat accent color.
@@ -136,6 +136,7 @@ new BotterCustomization.Builder()
 | Name  | Description | Screenshot |
 | ------------- | ------------- | ------------- |
 | setLauncherGravity | To set the launcher to the right/left of the screen. | 
+| setDefaultLocal | To set the default bot language either AR/EN. | 
 | setLauncherIcon | To change the launcher icon. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/1.jpg" alt="1">|
 | setBotterLogo | To set the chat main logo. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/2.jpg" alt="2">|
 | setBotterAccentColor | This is the main color used all over the chat like launcher bg color, welcome screen top area bg color, chat header, ect… I.e. in the image accent color is purple. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/main_color.jpg" alt="main_color">|
