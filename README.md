@@ -9,10 +9,10 @@ The Botter SDK is the home for the conversations your customers have with you, a
 You can open Botter from a persistent button that sits over your app’s UI, From there, your customer can  start a conversation, replies in both directions happen in real time.
 
 ## Sceenshots.
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_black.png" alt="sample1">
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_blue.png" alt="sample2">
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_orange.png" alt="sample3">
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_green.png" alt="sample4">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_black.jpg" alt="sample1">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_blue.jpg" alt="sample2">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_orange.jpg" alt="sample3">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_green.jpg" alt="sample4">
 
 
 ## Installation
