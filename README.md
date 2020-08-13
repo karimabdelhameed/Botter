@@ -10,10 +10,10 @@ You can open Botter from a persistent button that sits over your app’s UI, Fro
 
 ## Sceenshots.
 <p float="left">
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_black.jpg" width="100" alt="sample1">
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_blue.jpg" width="100" alt="sample2">
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_orange.jpg" width="100" alt="sample3">
-<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_green.jpg" width="100" alt="sample4">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_black.jpg" width="200" alt="sample1">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_blue.jpg" width="200" alt="sample2">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_orange.jpg" width="200" alt="sample3">
+<img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_green.jpg" width="200" alt="sample4">
 </p>
 
 
