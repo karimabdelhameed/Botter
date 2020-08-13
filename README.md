@@ -8,7 +8,7 @@ The [Botter Messenger](https://botter.ai/) enables you to use it like a Messenge
 The Botter SDK is the home for the conversations your customers have with you, and the place where they can self-serve for support or to learn more about your product.
 You can open Botter from a persistent button that sits over your app’s UI, From there, your customer can  start a conversation, replies in both directions happen in real time.
 
-## Sceenshots.
+## Sceenshots
 <p float="left">
 <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_black.jpg" width="200" alt="sample1">
 <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/sample_blue.jpg" width="200" alt="sample2">
