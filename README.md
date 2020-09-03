@@ -42,7 +42,7 @@ maven {
 <li> add Botter dependency under <strong>dependencies { </strong> section  
  
 ```
-implementation "com.bluecrunch:botter:1.3.6"
+implementation "com.bluecrunch:botter:1.3.7"
 ```
 
 ## Integration
@@ -154,6 +154,8 @@ new BotterCustomization.Builder()
 |setBotterChatHeaderTitle , setBotterChatHeaderTitleColor | Used to set the main chat header title text and color | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/6.jpg" alt="6">|
 | setBotterChatBubbleColor , setBotterChatBubbleTextColor | Used to set the botter message bubble bg color and it’s text color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/7.jpg" alt="7">|
 | setSenderChatBubbleColor , setSenderChatBubbleTextColor | Used to set the sender/user message bubble bg color and it’s text color. | <img src="https://raw.githubusercontent.com/karimabdelhameed/Botter/master/.github/images/8.jpg" alt="8">|
+| setWelcomeBrandLogo | Used to set the welcome screen brand logo. |
+| setAgentDefaultIcon | Used to set the default agent chant icon. |
 | setBotterRegularFontFamily | Used to set the primary font all over the chat. |
 | setBotterSemiBoldFontFamily | Used to set the secondary font all over the chat. |
 
